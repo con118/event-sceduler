@@ -50,6 +50,6 @@ Repository contains multiple descriptive commit messages.
 
 Repository contains a quality README file with description, screenshot, and link to deployed application.
 
-Repo URL: 
+Repo URL: https://github.com/con118/event-sceduler
 
-Deployed URL:
+Deployed URL: https://con118.github.io/event-sceduler/
